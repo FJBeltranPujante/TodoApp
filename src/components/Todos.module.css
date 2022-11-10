@@ -1,0 +1,14 @@
+.todos {
+  display:flex;
+  flex-direction: column;
+  justify-items: center;
+  margin:  auto;
+  list-style: none;
+  padding: 0;
+  width: 40rem;
+}
+
+
+
+    
+  
